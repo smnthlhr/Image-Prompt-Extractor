@@ -1,0 +1,5 @@
+{
+  "name": "Image Prompt Extractor",
+  "description": "Upload an image and this application will use AI to generate a detailed, descriptive prompt that could be used to recreate the image with an AI image generator.",
+  "requestFramePermissions": []
+}
